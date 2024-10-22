@@ -5,3 +5,4 @@ Hello
 shizuoka
 futo
 
+1000
